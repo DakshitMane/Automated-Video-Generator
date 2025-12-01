@@ -55,8 +55,8 @@ cd "c:\AI Agent\youtube_agent_system"
 git init
 
 # Step 2: Configure git
-git config user.name "Your Name"
-git config user.email "your.email@example.com"
+git config user.name "DakshitMane"
+git config user.email "dakshitmane2775@gmail.com"
 
 # Step 3: Add all files
 git add .
